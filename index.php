@@ -28,7 +28,7 @@
 <div class="container text-center" >
 	<h2>My Portfolio</h2>      
 	<p>You don't have to know my name</p>
-	<img src="D:\college\comnet\site\photo\CharlizeTheron_gun.gif" style="width:15%" alt="Image">
+	<img src="photo\CharlizeTheron_gun.gif" style="width:15%" alt="Image">
 	<p>But ...</p>
 	  
 </div>
